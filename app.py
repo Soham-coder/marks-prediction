@@ -1,5 +1,5 @@
 from flask import Flask, render_template, redirect, request
-import sklearn.externals as joblib
+from sklearn.externals import joblib
 
 # __name__ == __main__
 app = Flask(__name__)
