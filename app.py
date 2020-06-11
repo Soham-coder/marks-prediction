@@ -1,11 +1,11 @@
 from flask import Flask, render_template, redirect, request
-
-from sklearn.externals import joblib
+import sklearn.external.joblib as extjoblib
+import joblib
 
 # __name__ == __main__
 app = Flask(__name__)
 
-model = joblib.load("model.pkl")
+model = extjoblib.load("model.pkl")
 
 
 @app.route('/')
