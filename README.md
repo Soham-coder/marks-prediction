@@ -1,6 +1,10 @@
 # Marks-Prediction
 
+
+
 ### This ML web app is deployed to heroku gunicorn server
+
+
 
 
 
@@ -57,15 +61,26 @@
 </p>
 </details>
 
-[![Image](https://img.shields.io/badge/heroku-build%20passing-green)]
+
+
+![Image](https://img.shields.io/badge/heroku-build%20passing-green)
+
+
+
 https://marks-prediction39.herokuapp.com/
 
+
+
 *It's a fun application which will get you your expected marks once you give prompt for number of hours of study*
+
+
 
 ```diff
 ! Heroku does not actually encourage free gifts. If it finds less traffic/requests coming to the webapp it will delete your account without notifying you :(
 # So you may find this web app getting expired
 ```
+
+
 
 # Deployed app image
 ![Image](https://github.com/Soham-coder/marks-prediction/blob/master/heroku_app.PNG)
