@@ -4,7 +4,7 @@
 
 
 
-<details><summary><font color='red'> HEROKU BUILD LOG</font></summary>
+<font color='red'><details><summary> HEROKU BUILD LOG </summary></font>
 <p>
 
 
