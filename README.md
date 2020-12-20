@@ -57,6 +57,7 @@
 </p>
 </details>
 
+[![Heroku](http://heroku-badge.herokuapp.com/?app=marks-prediction39&style=flat&svg=1&root=index.html)]
 https://marks-prediction39.herokuapp.com/
 
 *It's a fun application which will get you your expected marks once you give prompt for number of hours of study*
@@ -70,5 +71,5 @@ https://marks-prediction39.herokuapp.com/
 ![Image](https://github.com/Soham-coder/marks-prediction/blob/master/heroku_app.PNG)
 
 # Deploy to Heroku?
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soham-coder/marks-prediction39)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soham-coder/marks-prediction)
 
