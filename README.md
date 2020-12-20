@@ -5,7 +5,7 @@
 
 
 
-<details><summary> <span style="color:red">HEROKU BUILD LOG </span> </summary>
+<details><summary>HEROKU BUILD LOG </summary>
 <p>
 
 ```prompt
