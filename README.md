@@ -70,5 +70,5 @@ https://marks-prediction39.herokuapp.com/
 ![Image](https://github.com/Soham-coder/marks-prediction/blob/master/heroku_app.PNG)
 
 # Deploy to Heroku?
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
 
