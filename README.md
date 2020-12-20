@@ -57,7 +57,7 @@
 </p>
 </details>
 
-[![Heroku](http://heroku-badge.herokuapp.com/?app=marks-prediction39&style=flat&svg=1&root=index.html)]
+[![Image](https://img.shields.io/badge/heroku-build%20passing-green)]
 https://marks-prediction39.herokuapp.com/
 
 *It's a fun application which will get you your expected marks once you give prompt for number of hours of study*
