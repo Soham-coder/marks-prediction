@@ -69,3 +69,6 @@ https://marks-prediction39.herokuapp.com/
 # Deployed app image
 ![Image](https://github.com/Soham-coder/marks-prediction/blob/master/heroku_app.PNG)
 
+# Deploy to Heroku?
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
