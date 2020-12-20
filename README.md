@@ -59,7 +59,7 @@
 
 https://marks-prediction39.herokuapp.com/
 
-It's a fun application which will get you your expected marks once you give prompt for number of hours of study.
+*It's a fun application which will get you your expected marks once you give prompt for number of hours of study*.
 
 ```diff
 ! Heroku does not actually encourage free gifts. If it finds less traffic/requests coming to the webapp it will delete your account without notifying you :(
