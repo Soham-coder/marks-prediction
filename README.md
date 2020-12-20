@@ -3,16 +3,10 @@
 ### This ML web app is deployed to heroku gunicorn server.
 
 
-a[href='red'] {
-    color: red;
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
 
-<a href="red"><details><summary> HEROKU BUILD LOG </summary></a>
+
+<details><summary> <span style="color:red">HEROKU BUILD LOG </span> </summary>
 <p>
-
 
 ```prompt
 -----> Python app detected
