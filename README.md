@@ -2,7 +2,7 @@
 
 ### This ML web app is deployed to heroku gunicorn server.
 
-## collapsible markdown?
+
 
 <details><summary>HEROKU BUILD LOG</summary>
 <p>
@@ -58,6 +58,13 @@
 </details>
 
 https://marks-prediction39.herokuapp.com/
-It's a dummy application which will get you your expected marks once you give prompt for number of hours of study.
 
+It's a fun application which will get you your expected marks once you give prompt for number of hours of study.
+
+```diff
+! Heroku does not actually encourage free gifts. If it finds less traffic/requests coming to the webapp it will delete your account without notifying you :(
+```
+
+# Deployed app image
+![Image](https://github.com/Soham-coder/marks-prediction/blob/master/heroku_app.PNG)
 
