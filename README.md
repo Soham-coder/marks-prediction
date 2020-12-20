@@ -3,8 +3,14 @@
 ### This ML web app is deployed to heroku gunicorn server.
 
 
+a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
 
-<font color='red'><details><summary> HEROKU BUILD LOG </summary></font>
+<a href="red"><details><summary> HEROKU BUILD LOG </summary></a>
 <p>
 
 
